@@ -1,6 +1,6 @@
 <h1 align="center">Welcome 👋</h1>
 <p>
-  <a href="https://twitter.com/Noafiliation">
+  <a href="https://twitter.com/Noahffiliation">
     <img alt="Twitter: Noafiliation" src="https://img.shields.io/twitter/follow/Noafiliation.svg?style=social" target="_blank" />
   </a>
 </p>
@@ -15,7 +15,7 @@
 
 👤 **Noah Lindsey**
 
-* Twitter: [@Noafiliation](https://twitter.com/Noafiliation)
+* Twitter: [@Noahffiliation](https://twitter.com/Noahffiliation)
 * Github: [@Noahffiliation](https://github.com/Noahffiliation)
 
 ## Show your support
